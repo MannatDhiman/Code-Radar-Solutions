@@ -1,7 +1,6 @@
 #include <stdio.h>
 int main() {
     unsigned int num;
-    int num;
     if (scanf("%u", &num) == 1) 
     scanf("%d", &num);
     printf("Hexadecimal: %x\n", num);
