@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main() {
+int main(){
     char name[100];
     int age;
     char hobby[100];
@@ -7,7 +7,7 @@ int main() {
     scanf("%s", &name);
     printf("Enter your age: ");
     scanf("%d", &age);
-    printf("Enter your favourite hobby:");
+    printf("Enter your favourite hobby: ");
     scanf("%s", &hobby);
     printf("\nName: %s\n", name);
     printf("Age: %d\n", age);
