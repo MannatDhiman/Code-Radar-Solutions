@@ -4,9 +4,9 @@ int main(){
     int age;
     char hobby[100];
     
-    scanf("%s", &name);
+    scanf("%s", name);
     scanf("%d", &age);
-    scanf("%s", &hobby); 
+    scanf("%s", hobby); 
     printf("Name: %s\n", name);
     printf("Age: %d\n", age);
     printf("Favourite hobby: %s\n", hobby);
