@@ -7,10 +7,10 @@ int main(){
     scanf("%s", name);
     scanf("%d", &age);
     scanf("%s", hobby); 
-    
+
     printf("Name: %s\n", name);
     printf("Age: %d\n", age);
-    printf("Favourite hobby: %s\n", hobby);
+    printf("Hobby: %s\n", hobby);
 
     return 0;
 
