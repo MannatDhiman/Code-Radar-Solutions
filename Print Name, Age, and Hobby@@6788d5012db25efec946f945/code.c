@@ -8,8 +8,9 @@ int main(){
     printf("Enter your age: ");
     scanf("%d", &age);
     printf("Enter your favourite hobby: ");
-    scanf("%s", &hobby);
-    printf("\nName: %s\n", name);
+    scanf("%s", &hobby); 
+
+    printf("Name: %s\n", name);
     printf("Age: %d\n", age);
     printf("Favourite hobby: %s\n", hobby);
     return 0;
