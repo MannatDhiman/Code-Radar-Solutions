@@ -1,4 +1,5 @@
 #include <stdio.h>
+int sort(int n);
 int main(){
     int n;
     scanf("%d", &n);
